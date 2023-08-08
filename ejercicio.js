@@ -8,4 +8,4 @@ function funcionDeEjemplo() {
   // Escribe la lógica aquí
 }
 
-module.exports = convertirUnidades;
+module.exports = funcionDeEjemplo;
